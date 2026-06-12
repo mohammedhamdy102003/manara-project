@@ -8,7 +8,7 @@ This project demonstrates a fully serverless REST API architecture on AWS, built
 
 ## 🏗️ Project Architecture
 
-![Architecture Diagram](manara-digram.png)
+![Architecture Diagram](manara-digram.PNG)
 
 ---
 
